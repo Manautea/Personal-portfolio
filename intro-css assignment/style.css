@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styles */
+header {
+    background-color: #6a07bb; /* Purple background */
+    padding: 20px; /* Padding for style */
+    text-align: center;
+}
+
+.header_title {
+    color: #fff; /* White text color */
+    margin: 0; /* Remove default margin */
+}
+
+/* Navigation Styles */
+nav {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 10px; /* Padding for style */
+}
+
+nav a {
+    margin-right: 10px; /* Right margin between links */
+    text-decoration: none; /* Remove underlines from links */
+    color: #333; /* Dark text color */
+}
+
+/* Section Styles */
+section {
+    padding: 20px; /* Padding for spacing */
+    margin-bottom: 20px; /* Bottom margin for spacing between sections */
+}
+
+#about {
+    background-color: #f0f0f0; /* Light gray background for about section */
+}
+
+#skills {
+    background-color: #e9ecef; /* Light gray background for skills section */
+}
+
+#contact {
+    background-color: #d3d3d3; /* Light gray background for contact section */
+}
+
+/* List Styles */
+ul {
+    list-style: none; /* Remove default list styles */
+    padding: 0; /* Remove default padding */
+}
+
+li {
+    border: 1px solid #ccc; /* Border for list items */
+    padding: 10px; /* Padding for list items */
+    margin-bottom: 10px; /* Bottom margin for spacing between list items */
+}
+
+/* Link Styles */
+a {
+    color: #007bff; /* Blue link color */
+    text-decoration: none; /* Remove underlines from links */
+}
